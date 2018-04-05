@@ -4,7 +4,7 @@
 
 1. Select a file on your local computer.
 
-2. Create a simple http server from your local computer 
+2. Create a simple http server from your local computer.
     Run on command line : python -m SimpleHTTPServer <port>  //port eg.8000
     
     This will create a localhost on port 8000 (http://localhost:8000)
