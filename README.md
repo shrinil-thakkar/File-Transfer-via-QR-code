@@ -1,6 +1,6 @@
 # File-Transfer-via-QR-code
 
-# Use-case : Transfer a file from pc to phone
+# Use-case : Transfer a file from your local computer to your phone
 
 1. Select a file on your local computer.
 
