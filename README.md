@@ -13,7 +13,7 @@
     Run on command line : <ifconfig>
     Copy the ip address for en0 inet
     
-4. Attach the full path to the ip you got from ifconfig i.e. http://{ip}:{port}>/path/to/the/file
+4. Attach the full path to the ip you got from ifconfig i.e. http://{ip}:{port}/path/to/the/file
 
 5. Convert IP to QR code
     Install pyqrcode library,
