@@ -10,7 +10,7 @@
     This will create a localhost on port 8000 (http://localhost:8000)
     
 3. Convert localhost to local ip :
-    Run on command line : <ifconfig>
+    Run on command line : "ifconfig"
     Copy the ip address for en0 inet
     
 4. Attach the full path to the ip you got from ifconfig i.e. http://{ip}:{port}/path/to/the/file
